@@ -1,3 +1,7 @@
+# ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ
+**Γιαμουρίδης Νικόλαος
+Π2013051**
+
 # ΣΥΝΟΨΗ
 Μελετήθηκε η βιβλιοθήκη D3 της JavaScript και με αλλαγές στο αρχικό αποθετήριου του κώδικα, έγιναν κάποιες αισθητικές αλλαγές και προστέθηκαν κάποια επιπλέον features στο αρχικό project.
 
@@ -21,7 +25,17 @@
 <li><a href="#" onmousedown="button_sound.play()" role="button" class="pure-button switch" id="all-donations">All money</a>
 </li>
 ```
-αντίστοιχα και σε όλα τα κουμπία κατηγοριοποίησης. Επόμενο βήμα ήταν η [αλλαγή χρωμάτων στα 3 πεδία της ομαδοποίησης Split by party](https://github.com/DIYamYam/D3js-uk-political-donations/blob/master/style.css) με μια απλή αλλάγη των τιμών στο κώδικα του αρχείου style.css.
+αντίστοιχα και σε όλα τα κουμπία κατηγοριοποίησης. Επόμενο βήμα ήταν η [αλλαγή χρωμάτων στα 3 πεδία της ομαδοποίησης Split by party](https://github.com/DIYamYam/D3js-uk-political-donations/blob/master/style.css) με μια απλή αλλάγη των τιμών στο κώδικα του αρχείου style.css. Στην συνέχεια έγινε [Αλλαγή χρωμάτων στις μπάλες](https://github.com/DIYamYam/D3js-uk-political-donations/blob/master/chart.js) πάλι με αλλάγή τιμών αλλά αυτή την φορά στο αρχείο chart.js. Τέλος προστέθηκε [on click google search for donor](https://github.com/DIYamYam/D3js-uk-political-donations/blob/master/chart.js) στις μπάλες με την προσθήκη της παρακάτω εντολής στον κώδικα του chart.js
+```markdown
+.on("click", function(d) { window.open("http://www.google.com/search?q=" + d.donor);});
+```
+#Ενδεικτικές οθόνες
+
+![Screenshot1]( FinalReport/Screenshot(1).png )
+
+![Screenshot2]( FinalReport/Screenshot(2).png )
+
+![Screenshot3]( FinalReport/Screenshot(3).png )
 
 ### Markdown
 
