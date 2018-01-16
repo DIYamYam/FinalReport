@@ -31,7 +31,7 @@
 ```
 #Ενδεικτικές οθόνες
 
-![Screenshot1]( FinalReport/Screenshot(1).png )
+![Screenshot1]( https://github.com/DIYamYam/FinalReport/blob/master/Screenshot(1).png )
 
 ![Screenshot2]( FinalReport/Screenshot(2).png )
 
