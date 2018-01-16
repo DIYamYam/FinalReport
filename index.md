@@ -14,8 +14,10 @@
 <script>
     var button_sound = new Audio();
     button_sound.src = "ButtonSound.mp3";
-    </script>
+</script>
 ```
+και στην συνέχεια προστέθηκε σαν action όπως φαίνεται ```markdown <li><a href="#" onmousedown="button_sound.play()" role="button" class="pure-button switch" id="all-donations">All money</a>
+</li> ``` αντίστοιχα και σε όλα τα κουμπία κατηγοριοποίησης.
 
 ### Markdown
 
