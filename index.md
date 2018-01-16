@@ -1,8 +1,21 @@
-## Welcome to GitHub Pages
+# ΣΥΝΟΨΗ
+Μελετήθηκε η βιβλιοθήκη D3 της JavaScript και με αλλαγές στο αρχικό αποθετήριου του κώδικα, έγιναν κάποιες αισθητικές αλλαγές και προστέθηκαν κάποια επιπλέον features στο αρχικό project.
 
-You can use the [editor on GitHub](https://github.com/DIYamYam/FinalReport/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Εισαγωγή
+Η παρούσα εργασία εκπονήθηκε στα πλαίσια του μαθήματος Πολυμέσα του Ε΄εξαμήνου του Ιονίου Πανεπιστημίου. Υλοποιήθηκαν και παραδόθηκαν τα ερωτήματα των δύο πρώτων παραδοτέων και η παρούσα σελίδα αποτελεί την τελική αναφορά της εργασίας. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Επιλογή εργαλείων
+Για την υλοποίηση της εργασίας αλλά και για την ανταλαγή σχολίων και διορθώσεων πάνω σε αυτή, χρησιμοποιήθηκε η πλατφόρμα του GitHub. To GitHub αποτελεί το πλέον απαραίτητο "social media" ενός προγραμματιστή, λόγω  της δημοτικότητας αλλά επισής είναι ενα εργαλείο που πρέπει ο καθένας μας να εξοικειωθεί διότι καλλιεργεί την συνεργατηκότητα στον προγραμματισμό και γενικότερα στην υλοποίηση project.
+
+# Διαδικασία Ανάπτυξης
+Αρχίκά μελετήθηκε ο αρχικός κώδικας για να κατανοήσουμε την μορφή και την λειτουργικότητα της σελίδας, εν συνεχεία έγινε μια αναζήτηση πάνω στις εντολές και γενικότερα στην βιβλιοθήκη D3 της Javascript. Επόμενο βήμα ήταν η ανάγνωση και  κατανόηση των ερωτημάτων. Στην συνέχεια ξεκίνησε η πιο συγκεκριμένη αναζήτηση στο διαδίκτυο επάνω στα ερωτήματα και η συγγραφή του κώδικα.
+Αρχικά προστέθηκε το [On click sound on menu buttons](https://github.com/DIYamYam/D3js-uk-political-donations/blob/master/index.html) με προσθήκη ενός script 
+```markdown
+<script>
+    var button_sound = new Audio();
+    button_sound.src = "ButtonSound.mp3";
+    </script>
+```
 
 ### Markdown
 
