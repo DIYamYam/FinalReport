@@ -25,7 +25,7 @@
 <li><a href="#" onmousedown="button_sound.play()" role="button" class="pure-button switch" id="all-donations">All money</a>
 </li>
 ```
-αντίστοιχα και σε όλα τα κουμπία κατηγοριοποίησης. Επόμενο βήμα ήταν η [αλλαγή χρωμάτων στα 3 πεδία της ομαδοποίησης Split by party](https://github.com/DIYamYam/D3js-uk-political-donations/blob/master/style.css) με μια απλή αλλάγη των τιμών στο κώδικα του αρχείου style.css. Στην συνέχεια έγινε [Αλλαγή χρωμάτων στις μπάλες](https://github.com/DIYamYam/D3js-uk-political-donations/blob/master/chart.js) πάλι με αλλάγή τιμών αλλά αυτή την φορά στο αρχείο chart.js. Τέλος προστέθηκε [on click google search for donor](https://github.com/DIYamYam/D3js-uk-political-donations/blob/master/chart.js) στις μπάλες με την προσθήκη της παρακάτω εντολής στον κώδικα του chart.js
+αντίστοιχα και σε όλα τα κουμπία κατηγοριοποίησης. Επόμενο βήμα ήταν η [αλλαγή χρωμάτων στα 3 πεδία της ομαδοποίησης Split by party](https://github.com/DIYamYam/D3js-uk-political-donations/blob/master/style.css) με μια απλή αλλάγη των τιμών στο κώδικα του αρχείου style.css. Στην συνέχεια έγινε [Αλλαγή χρωμάτων στις μπάλες](https://github.com/DIYamYam/D3js-uk-political-donations/blob/master/chart.js) πάλι με αλλάγή τιμών αλλά αυτή την φορά στο αρχείο chart.js. Τέλος προστέθηκε [on click google search for donor στις μπάλες](https://github.com/DIYamYam/D3js-uk-political-donations/blob/master/chart.js) με την προσθήκη της παρακάτω εντολής στον κώδικα του chart.js
 ```markdown
 .on("click", function(d) { window.open("http://www.google.com/search?q=" + d.donor);});
 ```
