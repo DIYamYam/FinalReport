@@ -29,7 +29,7 @@
 ```markdown
 .on("click", function(d) { window.open("http://www.google.com/search?q=" + d.donor);});
 ```
-#Ενδεικτικές οθόνες
+# Ενδεικτικές οθόνες
 
 ![Screenshot1]( https://github.com/DIYamYam/FinalReport/blob/master/Screenshot(1).png )
 
@@ -37,34 +37,11 @@
 
 ![Screenshot3]( https://github.com/DIYamYam/FinalReport/blob/master/Screenshot(3).png )
 
-### Markdown
+# Συμπεράσματα
+Η συγκεκριμένη εργασία αν και αρκετά εύκολη ως ένα σημείο, αποτελεί πολυ καλό παράδειγμα των πολυμεσικών επιπέδων και ζωνών σχεδίασης της εμπειρίας του χρήστη. Ο κώδικας ως περιεχόμενο συνδέεται με την εικόνα το site δηλαδή η οποία αποτελεί την διάδραση στην σχέση αυτή.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DIYamYam/FinalReport/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Αποθετήριο Data Visualizer](https://github.com/DIYamYam/D3js-uk-political-donations)
+[Link Data Visualizer](https://diyamyam.github.io/D3js-uk-political-donations/)
