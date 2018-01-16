@@ -21,7 +21,7 @@
 <li><a href="#" onmousedown="button_sound.play()" role="button" class="pure-button switch" id="all-donations">All money</a>
 </li>
 ```
-αντίστοιχα και σε όλα τα κουμπία κατηγοριοποίησης.
+αντίστοιχα και σε όλα τα κουμπία κατηγοριοποίησης. Επόμενο βήμα ήταν η [αλλαγή χρωμάτων στα 3 πεδία της ομαδοποίησης Split by party](https://github.com/DIYamYam/D3js-uk-political-donations/blob/master/style.css) με μια απλή αλλάγη των τιμών στο κώδικα του αρχείου style.css.
 
 ### Markdown
 
