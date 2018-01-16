@@ -33,9 +33,9 @@
 
 ![Screenshot1]( https://github.com/DIYamYam/FinalReport/blob/master/Screenshot(1).png )
 
-![Screenshot2]( FinalReport/Screenshot(2).png )
+![Screenshot2]( https://github.com/DIYamYam/FinalReport/blob/master/Screenshot(2).png )
 
-![Screenshot3]( FinalReport/Screenshot(3).png )
+![Screenshot3]( https://github.com/DIYamYam/FinalReport/blob/master/Screenshot(3).png )
 
 ### Markdown
 
