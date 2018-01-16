@@ -31,11 +31,11 @@
 ```
 # Ενδεικτικές οθόνες
 
-![Screenshot1]( https://github.com/DIYamYam/FinalReport/blob/master/Screenshot(1).png )
+![Screenshot1](  FinalReport/Screenshot(1).png  )
 
-![Screenshot2]( https://github.com/DIYamYam/FinalReport/blob/master/Screenshot(2).png )
+![Screenshot2](  FinalReport/Screenshot(2).png  )
 
-![Screenshot3]( https://github.com/DIYamYam/FinalReport/blob/master/Screenshot(3).png )
+![Screenshot3](  FinalReport/Screenshot(3).png  )
 
 # Συμπεράσματα
 Η συγκεκριμένη εργασία αν και αρκετά εύκολη ως ένα σημείο, αποτελεί πολυ καλό παράδειγμα των πολυμεσικών επιπέδων και ζωνών σχεδίασης της εμπειρίας του χρήστη. Ο κώδικας ως περιεχόμενο συνδέεται με την εικόνα το site δηλαδή η οποία αποτελεί την διάδραση στην σχέση αυτή.
